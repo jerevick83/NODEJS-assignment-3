@@ -1,0 +1,30 @@
+body{
+    margin: 1rem;
+    padding: 0;
+}
+
+.nav-section{
+    background-color: blue;
+    margin: 0 0 1rem;
+}
+
+.nav-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.nav-list{
+    display: flex; 
+    list-style-type: none;
+    background-color: greenyellow; 
+    text-decoration: none; 
+    margin:0 0%;
+    font-size: larger;
+    color: black;
+}
+
+.nav-list-item,a{
+    font-weight: bold;
+    margin: 5px;
+    color: black
+}
